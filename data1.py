@@ -1,1 +1,1 @@
-print("hello from data58.py")
+print("welcome to neuralnet")
